@@ -1,4 +1,7 @@
-## Hi there 👋
+# Ethan O’Neil
+## About Me
+I’m a Computer Science major with a Business minor at FSU.  
+Interested in cybersecurity, leadership, and tech management.
 
 <!--
 **ethano83/ethano83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
