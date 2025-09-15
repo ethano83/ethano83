@@ -1,7 +1,9 @@
 # Ethan O’Neil
 ## About Me
-I’m a Computer Science major with a Business minor at FSU.  
-Interested in cybersecurity, leadership, and tech management.
+🎓 Computer Science major, General Business minor at Florida State University
+🌱 Interested in cybersecurity, AI, and tech management
+💻 Skills: C++, Python, SQL, AWS
+📫 [Connect with me on LinkedIn]([url](https://www.linkedin.com/in/ethan-o-neil1/))
 
 <!--
 **ethano83/ethano83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
